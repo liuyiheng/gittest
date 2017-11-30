@@ -1,1 +1,3 @@
-hello worldhello worldldhello worldldhello world
+hello worldhello worldldhello worldldhello worldbecause the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
